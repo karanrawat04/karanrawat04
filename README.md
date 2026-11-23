@@ -1,105 +1,152 @@
- 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:101B35,100:164E63&height=230&section=header&text=KARAN%20RAWAT&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:151038,70:064E70,100:050816&text=KARAN%20RAWAT&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20THE%20NEXT%20DIGITAL%20EXPERIENCE&descSize=15&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Software+Solutions;Engineering+AI+Voice+%26+Chat+Agents;Full+Stack+Development+%7C+System+Architecture;Turning+Complex+Ideas+Into+Working+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=750&lines=SOFTWARE+ENGINEER+%2F%2F+AI+BUILDER;DESIGNING+INTELLIGENT+SYSTEMS;ENGINEERING+SCALABLE+APPLICATIONS;TURNING+IDEAS+INTO+REALITY."/>
 
 <br/>
 
-<a href="https://github.com/karanrawat04"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karan-rawat-28ab8421a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:karanroliyal12@gmail.com"><img src="https://img.shields.io/badge/Email-00BFA6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karan-rawat-28ab8421a/">LET'S CONNECT ↗</a>
+&nbsp;&nbsp; ◈ &nbsp;&nbsp;
+<a href="mailto:karanroliyal12@gmail.com">SEND AN EMAIL ↗</a>
+&nbsp;&nbsp; ◈ &nbsp;&nbsp;
+<a href="https://github.com/karanrawat04">EXPLORE MY WORK ↗</a>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=karanrawat04&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+<br/>
+
+<div align="center">
+
+`INDEPENDENT THINKING` &nbsp; / &nbsp; `SOFTWARE ENGINEERING` &nbsp; / &nbsp; `ARTIFICIAL INTELLIGENCE`
 
 </div>
 
 ---
 
-## `> whoami`
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I'm **Karan Rawat**, a Software Developer with **3+ years of experience** building scalable applications, intelligent automation systems, and AI-powered products.
+# 01 — THE HUMAN BEHIND THE CODE
 
-I work across frontend engineering, backend development, and AI integrations. My focus is on transforming complex requirements into practical, production-oriented software.
+### I don't just build applications. I build possibilities.
 
-```javascript
-const karan = {
-    role: "Software Developer & AI Engineer",
-    experience: "3+ Years",
-    focus: [
-        "Full Stack Development",
-        "AI Voice & Chat Agents",
-        "Backend Engineering",
-        "System Architecture",
-        "Workflow Automation"
-    ],
-    currentlyExploring: [
-        "Agentic AI",
-        "RAG Systems",
-        "Conversational AI",
-        "Scalable SaaS Architecture"
-    ],
-    philosophy: "Build. Experiment. Improve. Repeat."
-};
-```
+I'm **Karan Rawat**, a software developer with 3+ years of experience turning complex ideas into functional digital products.
 
----
+My world sits at the intersection of software engineering and artificial intelligence.
 
-## `> what_i_build`
+From architecting full-stack applications to engineering AI voice agents that can hold conversations, I enjoy building systems that make technology more useful, intuitive and intelligent.
+
+I believe the best engineering happens when creativity meets technical depth.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Animated developer working at computer"/>
+
+<br/>
+
+**CURRENT IDENTITY**
+
+`FULL-STACK ENGINEER`
+
+`AI SYSTEMS BUILDER`
+
+`PRODUCT THINKER`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:8B5CF6,100:00E5FF&section=header" width="100%"/>
+
+</div>
+
+# 02 — WHAT I CREATE
+
+<div align="center">
+
+### FOUR DIMENSIONS. ONE ENGINEERING MINDSET.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Voice Agents
+<img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=10101B"/>
 
-- Intelligent inbound/outbound calling agents
-- Speech-to-text and text-to-speech pipelines
-- LLM-powered conversations
-- Calling workflows and token optimization
-- Multi-provider AI integrations
-- Natural conversational experiences
+## The Voice Revolution.
+
+Engineering AI-powered voice systems that can listen, understand, process and respond.
+
+- Real-time conversational AI
+- Speech-to-text / Text-to-speech
+- LLM-powered calling agents
+- Inbound & outbound workflows
+- Multi-provider integrations
+- Token-efficient conversation design
+
+<sub>GROQ · ELEVENLABS · MURF · SARVAM · OLLAMA</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 AI Chat Agents
+<img src="https://img.shields.io/badge/02-CONVERSATIONAL_SYSTEMS-BB86FC?style=flat-square&labelColor=10101B"/>
 
-- Workflow and prompt-based agents
-- Customizable website chat widgets
-- LLM integrations
-- Knowledge-base and RAG systems
-- Conversational interfaces
-- Context-aware responses
+## Beyond Traditional Chatbots.
+
+Building configurable AI chat platforms that connect people with intelligent systems.
+
+- Prompt-based AI agents
+- Workflow-driven conversations
+- Custom website chat widgets
+- Knowledge-base integration
+- RAG architectures
+- Multi-LLM support
+
+<sub>LANGCHAIN · LLM · RAG · TYPESCRIPT</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Engineering
+<img src="https://img.shields.io/badge/03-FULL_STACK_ENGINEERING-00E5FF?style=flat-square&labelColor=10101B"/>
+
+## From Interface to Infrastructure.
+
+Building complete software products with real business functionality.
 
 - Enterprise admin dashboards
-- CRM and lead management systems
-- REST API development
+- CRM and lead management
+- Healthcare applications
+- Real-time interfaces
+- REST API ecosystems
 - Database architecture
-- Real-time application features
-- Responsive web applications
+
+<sub>ANGULAR · NODE.JS · PHP · POSTGRESQL</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Automation
+<img src="https://img.shields.io/badge/04-AUTOMATION_AND_SYSTEMS-BB86FC?style=flat-square&labelColor=10101B"/>
 
-- Node.js and PHP applications
-- Backend process automation
-- Third-party API integrations
-- Workflow orchestration
-- WordPress development
-- Data processing systems
+## Make Complex Things Simple.
+
+Engineering the backend processes that make products work.
+
+- API integrations
+- Workflow automation
+- Backend optimization
+- Data processing
+- WordPress engineering
+- System integrations
+
+<sub>NODE.JS · MYSQL · N8N · PYTHON</sub>
 
 </td>
 </tr>
@@ -107,91 +154,196 @@ const karan = {
 
 ---
 
-## `> tech_stack`
+# 03 — THE ENGINEERING ARSENAL
 
 <div align="center">
 
-### Frontend
+*Tools are instruments. Engineering is the craft.*
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,tailwind,bootstrap&theme=dark" />
+<br/><br/>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap&perline=9&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark" />
+<br/><br/>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb&perline=9&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<br/><br/>
 
-### AI / Automation
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,wordpress,vscode&perline=9&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Murf_AI-635BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress,docker,linux&theme=dark" />
+<img src="https://img.shields.io/badge/LANGCHAIN-111827?style=for-the-badge&logo=chainlink&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/OLLAMA-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GROQ-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ELEVENLABS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/N8N-111827?style=for-the-badge&logo=n8n"/>
 
 </div>
 
 ---
 
-## `> github_analytics`
+# 04 — HOW I THINK ABOUT SYSTEMS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanrawat04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1020&title_color=00E5FF&icon_color=00E5FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrawat04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00E5FF" />
+### AN IDEA IS ONLY THE BEGINNING.
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=karanrawat04&theme=tokyonight&hide_border=true&background=0B1020&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:00E5FF"/>
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**THINK**
+
+<sub>Understand the problem. Explore the possibilities.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 02
+
+**ARCHITECT**
+
+<sub>Design systems, workflows and foundations.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**ENGINEER**
+
+<sub>Build, integrate, optimize and refine.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**DELIVER**
+
+<sub>Ship solutions that create actual value.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 05 — THE GITHUB OBSERVATORY
+
+<div align="center">
+
+### A LIVE VIEW OF MY ENGINEERING JOURNEY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanrawat04&bg_color=080B18&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20TIMELINE"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanrawat04&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=E2E8F0&icon_color=8B5CF6&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrawat04&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=E2E8F0"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=karanrawat04&theme=transparent&hide_border=true&background=080B18&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF"/>
 
 </div>
 
 ---
 
-## `> contribution_activity`
+# 06 — THE CONTRIBUTION UNIVERSE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karanrawat04/karanrawat04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/karanrawat04/karanrawat04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation"/>
 
 </div>
 
 ---
 
-## `> let's_connect`
-
-I'm open to meaningful collaborations, interesting software projects, AI engineering opportunities, and conversations with people who love building technology.
-
-**Have an interesting idea? Let's build something together.**
+# 07 — BEHIND THE TERMINAL
 
 <div align="center">
+
+### A LITTLE BIT OF CODE. A LOT OF CURIOSITY.
+
+</div>
+
+```bash
+$ whoami
+
+karan.rawat
+Software Developer | AI Engineer
+
+$ experience --show
+
+3+ years of building software
+Frontend engineering
+Backend architecture
+AI-powered applications
+
+$ interests --current
+
+[+] Agentic AI
+[+] Conversational AI
+[+] RAG & Knowledge Systems
+[+] Scalable SaaS
+[+] Software Architecture
+
+$ philosophy
+
+"Don't just learn the technology.
+Understand what you can build with it."
+
+$ status
+
+READY_TO_BUILD ████████████████████ 100%
+```
+
+---
+
+<div align="center">
+
+# 08 — LET'S MAKE SOMETHING MATTER.
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=HAVE+AN+IDEA%3F;BUILDING+AN+AI+PRODUCT%3F;NEED+A+SOFTWARE+ENGINEER%3F;LET'S+TALK."/>
+
+<br/>
+
+### GOOD TECHNOLOGY STARTS WITH GOOD CONVERSATIONS.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/karan-rawat-28ab8421a/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=080B18"/>
 </a>
 
 <a href="mailto:karanroliyal12@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-00BFA6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/karanrawat04">
-<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-### `// Good ideas deserve great engineering.`
+<a href="https://github.com/karanrawat04">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=080B18"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:101B35,100:050816&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,40:151038,75:064E70,100:050816&section=footer&animation=twinkling"/>
+
+### `KARAN.RAWAT` — ENGINEERING THE POSSIBLE.
+
+<sub>DESIGNED WITH CURIOSITY. BUILT WITH CODE. POWERED BY IDEAS.</sub>
 
 </div>
